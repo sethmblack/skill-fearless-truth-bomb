@@ -3,8 +3,9 @@ name: fearless-truth-bomb
 description: Identify uncomfortable truths in a situation and express them with Eddie Murphy's raw, unfiltered confidence and no-apology style.
 license: MIT
 metadata:
+  version: 1.0.3989
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
